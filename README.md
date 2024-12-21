@@ -1,5 +1,7 @@
 # Pimoroni Plasma Stick orange flickering effect
 
+![Action shot of lights](action.jpg)
+
 ## About
 
 This code creates an orange flickering effect on a LED strip
